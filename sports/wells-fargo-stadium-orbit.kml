@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document id="Document_10">
+    <name>Wells Fargo Stadium Orbit</name>
+    <visibility>1</visibility>
+    <open>0</open>
+    <Folder id="Folder_11">
+      <name>AutoPlay</name>
+      <visibility>1</visibility>
+      <open>0</open>
+      <NetworkLink id="NetworkLink_12">
+        <name>Autoplay</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <Link id="Link_13">
+          <href>http://localhost:8765/query.html?query=playtour=wells-fargo-stadium-orbit</href>
+          <refreshMode>onChange</refreshMode>
+          <viewRefreshMode>never</viewRefreshMode>
+        </Link>
+        <flyToView>0</flyToView>
+        <refreshVisibility>0</refreshVisibility>
+      </NetworkLink>
+    </Folder>
+    <gx:Tour id="Tour_14">
+      <name>wells-fargo-stadium-orbit</name>
+      <gx:Playlist>
+        <gx:Wait id="Wait_15">
+          <!-- This wait is automatic, and helps prevent animation glitches -->
+          <gx:duration>0.1</gx:duration>
+        </gx:Wait>
+        <gx:FlyTo id="FlyTo_19">
+          <gx:duration>8</gx:duration>
+          <LookAt id="LookAt_17">
+            <longitude>-75.17197950042234</longitude>
+            <latitude>39.90120149617451</latitude>
+            <altitude>0.0</altitude>
+            <heading>-47.0</heading>
+            <tilt>67.5</tilt>
+            <range>777.0</range>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo id="FlyTo_25">
+          <gx:duration>2.333333333333333</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
+          <LookAt id="LookAt_23">
+            <longitude>-75.17197950042234</longitude>
+            <latitude>39.90120149617451</latitude>
+            <altitude>0.0</altitude>
+            <heading>320.0</heading>
+            <tilt>67.5</tilt>
+            <range>777</range>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo id="FlyTo_28">
+          <gx:duration>2.333333333333333</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
+          <LookAt id="LookAt_26">
+            <longitude>-75.17197950042234</longitude>
+            <latitude>39.90120149617451</latitude>
+            <altitude>0.0</altitude>
+            <heading>327.0</heading>
+            <tilt>67.5</tilt>
+            <range>777</range>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo id="FlyTo_31">
+          <gx:duration>2.333333333333333</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
+          <LookAt id="LookAt_29">
+            <longitude>-75.17197950042234</longitude>
+            <latitude>39.90120149617451</latitude>
+            <altitude>0.0</altitude>
+            <heading>334.0</heading>
+            <tilt>67.5</tilt>
+            <range>777</range>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo id="FlyTo_34">
+          <gx:duration>2.333333333333333</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
+          <LookAt id="LookAt_32">
+            <longitude>-75.17197950042234</longitude>
+            <latitude>39.90120149617451</latitude>
+            <altitude>0.0</altitude>
+            <heading>341.0</heading>
+            <tilt>67.5</tilt>
+            <range>777</range>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo id="FlyTo_37">
+          <gx:duration>2.333333333333333</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
+          <LookAt id="LookAt_35">
+            <longitude>-75.17197950042234</longitude>
+            <latitude>39.90120149617451</latitude>
+            <altitude>0.0</altitude>
+            <heading>348.0</heading>
+            <tilt>67.5</tilt>
+            <range>777</range>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo id="FlyTo_40">
+          <gx:duration>2.333333333333333</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
+          <LookAt id="LookAt_38">
+            <longitude>-75.17197950042234</longitude>
+            <latitude>39.90120149617451</latitude>
+            <altitude>0.0</altitude>
+            <heading>355.0</heading>
+            <tilt>67.5</tilt>
+            <range>777</range>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo id="FlyTo_43">
+          <gx:duration>2.333333333333333</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
+          <LookAt id="LookAt_41">
+            <longitude>-75.17197950042234</longitude>
+            <latitude>39.90120149617451</latitude>
+            <altitude>0.0</altitude>
+            <heading>2.0</heading>
+            <tilt>67.5</tilt>
+            <range>777</range>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo id="FlyTo_46">
+          <gx:duration>2.333333333333333</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
+          <LookAt id="LookAt_44">
+            <longitude>-75.17197950042234</longitude>
+            <latitude>39.90120149617451</latitude>
+            <altitude>0.0</altitude>
+            <heading>9.0</heading>
+            <tilt>67.5</tilt>
+            <range>777</range>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo id="FlyTo_49">
+          <gx:duration>2.333333333333333</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
+          <LookAt id="LookAt_47">
+            <longitude>-75.17197950042234</longitude>
+            <latitude>39.90120149617451</latitude>
+            <altitude>0.0</altitude>
+            <heading>16.0</heading>
+            <tilt>67.5</tilt>
+            <range>777</range>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo id="FlyTo_52">
+          <gx:duration>2.333333333333333</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
+          <LookAt id="LookAt_50">
+            <longitude>-75.17197950042234</longitude>
+            <latitude>39.90120149617451</latitude>
+            <altitude>0.0</altitude>
+            <heading>23.0</heading>
+            <tilt>67.5</tilt>
+            <range>777</range>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo id="FlyTo_55">
+          <gx:duration>2.333333333333333</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
+          <LookAt id="LookAt_53">
+            <longitude>-75.17197950042234</longitude>
+            <latitude>39.90120149617451</latitude>
+            <altitude>0.0</altitude>
+            <heading>30.0</heading>
+            <tilt>67.5</tilt>
+            <range>777</range>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo id="FlyTo_58">
+          <gx:duration>2.333333333333333</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
+          <LookAt id="LookAt_56">
+            <longitude>-75.17197950042234</longitude>
+            <latitude>39.90120149617451</latitude>
+            <altitude>0.0</altitude>
+            <heading>37.0</heading>
+            <tilt>67.5</tilt>
+            <range>777</range>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:FlyTo id="FlyTo_61">
+          <gx:duration>2.333333333333333</gx:duration>
+          <gx:flyToMode>smooth</gx:flyToMode>
+          <LookAt id="LookAt_59">
+            <longitude>-75.17197950042234</longitude>
+            <latitude>39.90120149617451</latitude>
+            <altitude>0.0</altitude>
+            <heading>43.0</heading>
+            <tilt>67.5</tilt>
+            <range>777</range>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          </LookAt>
+        </gx:FlyTo>
+        <gx:Wait id="Wait_62">
+          <gx:duration>4</gx:duration>
+        </gx:Wait>
+      </gx:Playlist>
+    </gx:Tour>
+  </Document>
+</kml>
