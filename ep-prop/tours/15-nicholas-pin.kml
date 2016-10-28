@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document id="Document_1873">
+    <name>15 Nicholas Pin</name>
+    <visibility>1</visibility>
+    <open>0</open>
+    <Style id="Style_1876">
+      <IconStyle id="IconStyle_1874">
+        <color/>
+        <scale>3.5</scale>
+        <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+        <Icon id="Icon_1880">
+          <href>images/pins/15_nicholas.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle id="LabelStyle_1875">
+        <color>ff5e9cbc</color>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Folder id="Folder_1877">
+      <visibility>1</visibility>
+      <open>0</open>
+      <Placemark id="Placemark_1879">
+        <name>15 Nicholas Pin</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_1876</styleUrl>
+        <Point id="Point_1878">
+          <coordinates>-73.485141, 40.73607459999999, 11</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

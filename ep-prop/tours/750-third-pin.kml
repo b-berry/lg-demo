@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document id="Document_228">
+    <name>750 Third Pin</name>
+    <visibility>1</visibility>
+    <open>0</open>
+    <Style id="Style_231">
+      <IconStyle id="IconStyle_229">
+        <color/>
+        <scale>3.5</scale>
+        <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+        <Icon id="Icon_235">
+          <href>images/pins/750_third.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle id="LabelStyle_230">
+        <color>ff5e9cbc</color>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Folder id="Folder_232">
+      <visibility>1</visibility>
+      <open>0</open>
+      <Placemark id="Placemark_234">
+        <name>750 Third Pin</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_231</styleUrl>
+        <Point id="Point_233">
+          <coordinates>-73.97309849999999, 40.7539423, 110</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
