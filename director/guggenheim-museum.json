@@ -1,0 +1,53 @@
+{
+  "description": "",
+  "duration": 0,
+  "external_resource": "",
+  "long_description": "",
+  "menu_color": "white",
+  "name": "Guggenheim Museum",
+  "online_required": false,
+  "resource_uri": "/director_api/scene/943b6357-f0a8-4605-a3b9-68a48d2092b0/",
+  "slug": "943b6357-f0a8-4605-a3b9-68a48d2092b0",
+  "windows": [
+    {
+      "activity": "video",
+      "activity_config": {},
+      "assets": [
+        "https://www.youtube.com/watch?v=QvgVKWvb2tI"
+      ],
+      "height": 1080,
+      "presentation_viewport": "left_two",
+      "slug": 1377195946,
+      "width": 800,
+      "x_coord": 140,
+      "y_coord": 40
+    },
+    {
+      "activity": "browser",
+      "activity_config": {},
+      "assets": [
+        "http://lg-head:8088/roscoe_assets/guggenheim-museum.jpg"
+      ],
+      "height": 800,
+      "presentation_viewport": "left_three",
+      "slug": -221291130,
+      "width": 800,
+      "x_coord": 40,
+      "y_coord": 40
+    },
+    {
+      "activity": "browser",
+      "activity_config": {},
+      "assets": [
+        "https://www.guggenheim.org/"
+      ],
+      "height": 1840,
+      "presentation_viewport": "right_two",
+      "slug": 2076857359,
+      "width": 1000,
+      "x_coord": 40,
+      "y_coord": 40
+    }
+  ]
+}
+

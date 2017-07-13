@@ -1,0 +1,53 @@
+{
+  "description": "",
+  "duration": 0,
+  "external_resource": "",
+  "long_description": "",
+  "menu_color": "white",
+  "name": "Empire State Building",
+  "online_required": false,
+  "resource_uri": "/director_api/scene/830df5f7-6dbd-4d1f-b8bd-2eef10ae62db/",
+  "slug": "830df5f7-6dbd-4d1f-b8bd-2eef10ae62db",
+  "windows": [
+    {
+      "activity": "video",
+      "activity_config": {},
+      "assets": [
+        "https://www.youtube.com/watch?v=nVzKzoFJkQo"
+      ],
+      "height": 1080,
+      "presentation_viewport": "left_two",
+      "slug": -1670620889,
+      "width": 800,
+      "x_coord": 140,
+      "y_coord": 40
+    },
+    {
+      "activity": "browser",
+      "activity_config": {},
+      "assets": [
+        "http://lg-head:8088/roscoe_assets/empire-state.jpg"
+      ],
+      "height": 800,
+      "presentation_viewport": "left_three",
+      "slug": 1042176705,
+      "width": 800,
+      "x_coord": 40,
+      "y_coord": 40
+    },
+    {
+      "activity": "browser",
+      "activity_config": {},
+      "assets": [
+        "https://www.esbnyc.com/"
+      ],
+      "height": 1840,
+      "presentation_viewport": "right_two",
+      "slug": 208294518,
+      "width": 1000,
+      "x_coord": 40,
+      "y_coord": 40
+    }
+  ]
+}
+

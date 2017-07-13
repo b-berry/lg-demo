@@ -1,0 +1,53 @@
+{
+  "description": "",
+  "duration": 0,
+  "external_resource": "",
+  "long_description": "",
+  "menu_color": "white",
+  "name": "The High Line",
+  "online_required": false,
+  "resource_uri": "/director_api/scene/8aa10294-d63b-4a75-8058-003ad5c06e2e/",
+  "slug": "8aa10294-d63b-4a75-8058-003ad5c06e2e",
+  "windows": [
+    {
+      "activity": "video",
+      "activity_config": {},
+      "assets": [
+        "https://www.youtube.com/watch?v=QTxx1VTyUv8"
+      ],
+      "height": 1080,
+      "presentation_viewport": "left_two",
+      "slug": 1664505766,
+      "width": 800,
+      "x_coord": 140,
+      "y_coord": 40
+    },
+    {
+      "activity": "browser",
+      "activity_config": {},
+      "assets": [
+        "http://lg-head:8088/roscoe_assets/the-high-line.jpg"
+      ],
+      "height": 800,
+      "presentation_viewport": "left_three",
+      "slug": -578593692,
+      "width": 800,
+      "x_coord": 40,
+      "y_coord": 40
+    },
+    {
+      "activity": "browser",
+      "activity_config": {},
+      "assets": [
+        "http://www.thehighline.org/"
+      ],
+      "height": 1840,
+      "presentation_viewport": "right_two",
+      "slug": -157199519,
+      "width": 1000,
+      "x_coord": 40,
+      "y_coord": 40
+    }
+  ]
+}
+
