@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document id="Document_2377">
+    <name>Residential Placemarks</name>
+    <visibility>1</visibility>
+    <open>0</open>
+    <Style id="Style_2380">
+      <IconStyle id="IconStyle_2378">
+        <color/>
+        <scale>3.5</scale>
+        <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+        <Icon id="Icon_2409">
+          <href>images/pins/2_eastview.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle id="LabelStyle_2379">
+        <color>ff5e9cbc</color>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="Style_2386">
+      <IconStyle id="IconStyle_2384">
+        <color/>
+        <scale>3.5</scale>
+        <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+        <Icon id="Icon_2410">
+          <href>images/pins/1725_york.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle id="LabelStyle_2385">
+        <color>ff5e9cbc</color>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="Style_2391">
+      <IconStyle id="IconStyle_2389">
+        <color/>
+        <scale>3.5</scale>
+        <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+        <Icon id="Icon_2411">
+          <href>images/pins/4001_lochwood.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle id="LabelStyle_2390">
+        <color>ff5e9cbc</color>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="Style_2396">
+      <IconStyle id="IconStyle_2394">
+        <color/>
+        <scale>3.5</scale>
+        <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+        <Icon id="Icon_2412">
+          <href>images/pins/15_nicholas.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle id="LabelStyle_2395">
+        <color>ff5e9cbc</color>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="Style_2401">
+      <IconStyle id="IconStyle_2399">
+        <color/>
+        <scale>3.5</scale>
+        <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+        <Icon id="Icon_2413">
+          <href>images/pins/19_canal.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle id="LabelStyle_2400">
+        <color>ff5e9cbc</color>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="Style_2406">
+      <IconStyle id="IconStyle_2404">
+        <color/>
+        <scale>3.5</scale>
+        <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+        <Icon id="Icon_2414">
+          <href>images/pins/4_leeton.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle id="LabelStyle_2405">
+        <color>ff5e9cbc</color>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Folder id="Folder_2381">
+      <visibility>1</visibility>
+      <open>0</open>
+      <Placemark id="Placemark_2383">
+        <name>Residential Placemarks</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_2380</styleUrl>
+        <Point id="Point_2382">
+          <coordinates>-73.623289, 40.825857, 11</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_2388">
+        <name>Residential Placemarks</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_2386</styleUrl>
+        <Point id="Point_2387">
+          <coordinates>-73.9457998, 40.778329, 110</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_2393">
+        <name>Residential Placemarks</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_2391</styleUrl>
+        <Point id="Point_2392">
+          <coordinates>-73.8202759, 40.8002499, 11</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_2398">
+        <name>Residential Placemarks</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_2396</styleUrl>
+        <Point id="Point_2397">
+          <coordinates>-73.485141, 40.73607459999999, 11</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_2403">
+        <name>Residential Placemarks</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_2401</styleUrl>
+        <Point id="Point_2402">
+          <coordinates>-72.522717, 40.854215, 11</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_2408">
+        <name>Residential Placemarks</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_2406</styleUrl>
+        <Point id="Point_2407">
+          <coordinates>-72.4588188, 41.0676085, 11</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

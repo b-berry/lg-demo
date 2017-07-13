@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>WellsFargoKML.kml</name>
+    <Placemark>
+        <name>Wells Fargo Stadium</name>
+        <LookAt>
+            <longitude>-75.16980503790251</longitude>
+            <latitude>39.90391881994832</latitude>
+            <altitude>0</altitude>
+            <heading>-3.067425638042146</heading>
+            <tilt>0</tilt>
+            <range>778.5519840329057</range>
+            <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <Point>
+            <coordinates>-75.16980503790251,39.90391881994832,0</coordinates>
+        </Point>
+    </Placemark>
+</Document>
+</kml>

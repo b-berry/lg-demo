@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document id="Document_3900">
+    <name>Cornell University Pin</name>
+    <visibility>1</visibility>
+    <open>0</open>
+    <Style id="Style_3903">
+      <IconStyle id="IconStyle_3901">
+        <color/>
+        <scale>4.5</scale>
+        <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+        <Icon id="Icon_3907">
+          <href>images/pins/seal-pin.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle id="LabelStyle_3902">
+        <color>ff5e9cbc</color>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Folder id="Folder_3904">
+      <visibility>1</visibility>
+      <open>0</open>
+      <Placemark id="Placemark_3906">
+        <name>Cornell University Pin</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_3903</styleUrl>
+        <Point id="Point_3905">
+          <coordinates>-76.47903560522809, 42.44637585617424, 47</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

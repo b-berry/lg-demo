@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document id="Document_2351">
+    <name>Office Placemarks</name>
+    <visibility>1</visibility>
+    <open>0</open>
+    <Style id="Style_2354">
+      <IconStyle id="IconStyle_2352">
+        <color/>
+        <scale>3.5</scale>
+        <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+        <Icon id="Icon_2373">
+          <href>images/pins/750_third.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle id="LabelStyle_2353">
+        <color>ff5e9cbc</color>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="Style_2360">
+      <IconStyle id="IconStyle_2358">
+        <color/>
+        <scale>3.5</scale>
+        <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+        <Icon id="Icon_2374">
+          <href>images/pins/299_park.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle id="LabelStyle_2359">
+        <color>ff5e9cbc</color>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="Style_2365">
+      <IconStyle id="IconStyle_2363">
+        <color/>
+        <scale>3.5</scale>
+        <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+        <Icon id="Icon_2375">
+          <href>images/pins/40_fulton.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle id="LabelStyle_2364">
+        <color>ff5e9cbc</color>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="Style_2370">
+      <IconStyle id="IconStyle_2368">
+        <color/>
+        <scale>3.5</scale>
+        <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+        <Icon id="Icon_2376">
+          <href>images/pins/481_washington.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle id="LabelStyle_2369">
+        <color>ff5e9cbc</color>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Folder id="Folder_2355">
+      <visibility>1</visibility>
+      <open>0</open>
+      <Placemark id="Placemark_2357">
+        <name>Office Placemarks</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_2354</styleUrl>
+        <Point id="Point_2356">
+          <coordinates>-73.97309849999999, 40.7539423, 110</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_2362">
+        <name>Office Placemarks</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_2360</styleUrl>
+        <Point id="Point_2361">
+          <coordinates>-73.97416919999999, 40.75604010000001, 187</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_2367">
+        <name>Office Placemarks</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_2365</styleUrl>
+        <Point id="Point_2366">
+          <coordinates>-74.0047447, 40.7078755, 110</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </Point>
+      </Placemark>
+      <Placemark id="Placemark_2372">
+        <name>Office Placemarks</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_2370</styleUrl>
+        <Point id="Point_2371">
+          <coordinates>-74.0097246, 40.7255548, 33</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

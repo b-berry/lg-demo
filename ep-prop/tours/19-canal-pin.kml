@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document id="Document_2108">
+    <name>19 Canal Pin</name>
+    <visibility>1</visibility>
+    <open>0</open>
+    <Style id="Style_2111">
+      <IconStyle id="IconStyle_2109">
+        <color/>
+        <scale>3.5</scale>
+        <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+        <Icon id="Icon_2115">
+          <href>images/pins/19_canal.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle id="LabelStyle_2110">
+        <color>ff5e9cbc</color>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Folder id="Folder_2112">
+      <visibility>1</visibility>
+      <open>0</open>
+      <Placemark id="Placemark_2114">
+        <name>19 Canal Pin</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_2111</styleUrl>
+        <Point id="Point_2113">
+          <coordinates>-72.522717, 40.854215, 11</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document id="Document_1638">
+    <name>4001_lochwood Pin</name>
+    <visibility>1</visibility>
+    <open>0</open>
+    <Style id="Style_1641">
+      <IconStyle id="IconStyle_1639">
+        <color/>
+        <scale>3.5</scale>
+        <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+        <Icon id="Icon_1645">
+          <href>images/pins/4001_lochwood.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle id="LabelStyle_1640">
+        <color>ff5e9cbc</color>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Folder id="Folder_1642">
+      <visibility>1</visibility>
+      <open>0</open>
+      <Placemark id="Placemark_1644">
+        <name>4001_lochwood Pin</name>
+        <visibility>1</visibility>
+        <open>0</open>
+        <styleUrl>#Style_1641</styleUrl>
+        <Point id="Point_1643">
+          <coordinates>-73.8202759, 40.8002499, 11</coordinates>
+          <extrude>0</extrude>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
