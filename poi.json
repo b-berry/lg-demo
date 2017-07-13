@@ -1,0 +1,123 @@
+[
+  {
+    "address": "Statue of Liberty, New York, NY",
+    "id": "landmark",
+    "icon": "https://cdn4.iconfinder.com/data/icons/flat-icon-set/128/location-icon.png",
+    "geo": [
+      {
+        "lat": 40.6892494,
+        "lng": -74.04450039999999
+      }
+    ]
+  },
+  {
+    "address": "Empire State Building, New York, NY",
+    "id": "architecture",
+    "icon": "https://cdn4.iconfinder.com/data/icons/flat-icon-set/128/location-icon.png",
+    "geo": [
+      {
+        "lat": 40.7484405,
+        "lng": -73.98566439999999
+      }
+    ]
+  },
+  {
+    "address": "Central Park, New York, NY",
+    "id": "park",
+    "icon": "https://cdn4.iconfinder.com/data/icons/flat-icon-set/128/location-icon.png",
+    "geo": [
+      {
+        "lat": 40.7828647,
+        "lng": -73.9653551
+      }
+    ]
+  },
+  {
+    "address": "Metropolitan Museum of Art, New York, NY",
+    "id": "museum",
+    "icon": "https://cdn4.iconfinder.com/data/icons/flat-icon-set/128/location-icon.png",
+    "geo": [
+      {
+        "lat": 40.7794366,
+        "lng": -73.963244
+      }
+    ]
+  },
+  {
+    "address": "Rockefeller Center, New York, NY",
+    "id": "architecture",
+    "icon": "https://cdn4.iconfinder.com/data/icons/flat-icon-set/128/location-icon.png",
+    "geo": [
+      {
+        "lat": 40.7587402,
+        "lng": -73.9786736
+      }
+    ]
+  },
+  {
+    "address": "New York Public Library, New York, NY",
+    "id": "museum",
+    "icon": "https://cdn4.iconfinder.com/data/icons/flat-icon-set/128/location-icon.png",
+    "geo": [
+      {
+        "lat": 40.75318230000001,
+        "lng": -73.9822534
+      }
+    ]
+  },
+  {
+    "address": "Guggenheim Museum, New York, NY",
+    "id": "museum",
+    "icon": "https://cdn4.iconfinder.com/data/icons/flat-icon-set/128/location-icon.png",
+    "geo": [
+      {
+        "lat": 40.7829796,
+        "lng": -73.9589706
+      }
+    ]
+  },
+  {
+    "address": "St Patricks Cathedral, New York, NY",
+    "id": "architecture",
+    "icon": "https://cdn4.iconfinder.com/data/icons/flat-icon-set/128/location-icon.png",
+    "geo": [
+      {
+        "lat": 40.7584653,
+        "lng": -73.97599269999999
+      }
+    ]
+  },
+  {
+    "address": "One World Observatory, New York, NY",
+    "id": "architecture",
+    "icon": "https://cdn4.iconfinder.com/data/icons/flat-icon-set/128/location-icon.png",
+    "geo": [
+      {
+        "lat": 40.7133444,
+        "lng": -74.0133677
+      }
+    ]
+  },
+  {
+    "address": "The High Line, New York, NY",
+    "id": "park",
+    "icon": "https://cdn4.iconfinder.com/data/icons/flat-icon-set/128/location-icon.png",
+    "geo": [
+      {
+        "lat": 40.7479925,
+        "lng": -74.0047649
+      }
+    ]
+  },
+  {
+    "address": "Grand Central Terminal, New York, NY",
+    "id": "landmark",
+    "icon": "https://cdn4.iconfinder.com/data/icons/flat-icon-set/128/location-icon.png",
+    "geo": [
+      {
+        "lat": 40.7527262,
+        "lng": -73.9772294
+      }
+    ]
+  }
+]
