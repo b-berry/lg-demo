@@ -8,7 +8,7 @@
     {
         "id": "sites-1",
         "name": "Empire State Building",
-        "description": "<a href>https://www.nyctourist.com/empire1.htm</href>",
+        "uscs_message": "{\"description\":\"\",\"duration\":0,\"external_resource\":\"\",\"long_description\":\"\",\"menu_color\":\"white\",\"name\":\"EmpireStateBuilding\",\"online_required\":false,\"resource_uri\":\"/director_api/scene/830df5f7-6dbd-4d1f-b8bd-2eef10ae62db/\",\"slug\":\"830df5f7-6dbd-4d1f-b8bd-2eef10ae62db\",\"windows\":[{\"activity\":\"video\",\"activity_config\":{},\"assets\":[\"https://www.youtube.com/watch?v=nVzKzoFJkQo\"],\"height\":1080,\"presentation_viewport\":\"left_two\",\"slug\":-1670620889,\"width\":800,\"x_coord\":140,\"y_coord\":40},{\"activity\":\"browser\",\"activity_config\":{},\"assets\":[\"http://lg-head:8088/roscoe_assets/empire-state.jpg\"],\"height\":800,\"presentation_viewport\":\"left_three\",\"slug\":1042176705,\"width\":800,\"x_coord\":40,\"y_coord\":40},{\"activity\":\"browser\",\"activity_config\":{},\"assets\":[\"https://www.esbnyc.com/\"],\"height\":1840,\"presentation_viewport\":\"right_two\",\"slug\":208294518,\"width\":1000,\"x_coord\":40,\"y_coord\":40}]}",
         "billboard": {
             "horizontalOrigin": "CENTER",
             "image": "pins/marker-icon-teal-x128.png",
@@ -27,7 +27,7 @@
     {
         "id": "sites-2",
         "name": "Statue of Liberty",
-        "description": "This is my description",
+        "uscs_message": "{\"description\":\"\",\"duration\":0,\"external_resource\":\"\",\"long_description\":\"\",\"menu_color\":\"white\",\"name\":\"StatueofLiberty\",\"online_required\":false,\"resource_uri\":\"/director_api/scene/7526f322-9a4a-40c8-aca3-9143f95ff9d0/\",\"slug\":\"7526f322-9a4a-40c8-aca3-9143f95ff9d0\",\"windows\":[{\"activity\":\"video\",\"activity_config\":{},\"assets\":[\"https://www.youtube.com/watch?v=42yO2FUWL6A\"],\"height\":1080,\"presentation_viewport\":\"left_two\",\"slug\":793335838,\"width\":800,\"x_coord\":140,\"y_coord\":40},{\"activity\":\"browser\",\"activity_config\":{},\"assets\":[\"http://lg-head:8088/roscoe_assets/statue-of-liberty.jpg\"],\"height\":800,\"presentation_viewport\":\"left_three\",\"slug\":-1783669212,\"width\":800,\"x_coord\":40,\"y_coord\":40},{\"activity\":\"browser\",\"activity_config\":{},\"assets\":[\"http://thestatueofliberty.com/\"],\"height\":1840,\"presentation_viewport\":\"right_two\",\"slug\":-1909566123,\"width\":1000,\"x_coord\":40,\"y_coord\":40}]}",
         "billboard": {
             "horizontalOrigin": "CENTER",
             "image": "pins/marker-icon-teal-x128.png",
@@ -46,7 +46,7 @@
     {
         "id": "sites-3",
         "name": "Central Park",
-        "description": "This is my description",
+        "uscs_message": "{\"description\":\"\",\"duration\":0,\"external_resource\":\"\",\"long_description\":\"\",\"menu_color\":\"white\",\"name\":\"CentralPark\",\"online_required\":false,\"resource_uri\":\"/director_api/scene/d9f91ed4-b709-4a6e-8af3-355673b43b1b/\",\"slug\":\"d9f91ed4-b709-4a6e-8af3-355673b43b1b\",\"windows\":[{\"activity\":\"video\",\"activity_config\":{},\"assets\":[\"https://www.youtube.com/watch?v=7qaKlfQMv8o\"],\"height\":1080,\"presentation_viewport\":\"left_two\",\"slug\":1678923966,\"width\":800,\"x_coord\":140,\"y_coord\":40},{\"activity\":\"browser\",\"activity_config\":{},\"assets\":[\"http://lg-head:8088/roscoe_assets/central-park.jpg\"],\"height\":800,\"presentation_viewport\":\"left_three\",\"slug\":-1421190067,\"width\":800,\"x_coord\":40,\"y_coord\":40},{\"activity\":\"browser\",\"activity_config\":{},\"assets\":[\"http://www.centralparknyc.org/\"],\"height\":1840,\"presentation_viewport\":\"right_two\",\"slug\":-559590271,\"width\":1000,\"x_coord\":40,\"y_coord\":40}]}",
         "billboard": {
             "horizontalOrigin": "CENTER",
             "image": "pins/marker-icon-green-x128.png",
@@ -84,7 +84,7 @@
     {
         "id": "sites-5",
         "name": "World Trade Center",
-        "description": "This is my description",
+        "uscs_message": "{\"description\":\"\",\"duration\":0,\"external_resource\":\"\",\"long_description\":\"\",\"menu_color\":\"white\",\"name\":\"OneWorldObservatory\",\"online_required\":false,\"resource_uri\":\"/director_api/scene/a68e718a-da52-44fd-aedc-3a0e4b276144/\",\"slug\":\"a68e718a-da52-44fd-aedc-3a0e4b276144\",\"windows\":[{\"activity\":\"video\",\"activity_config\":{},\"assets\":[\"https://www.youtube.com/watch?v=AS9cDc6zmrI\"],\"height\":1080,\"presentation_viewport\":\"left_two\",\"slug\":-1296672799,\"width\":800,\"x_coord\":140,\"y_coord\":40},{\"activity\":\"browser\",\"activity_config\":{},\"assets\":[\"http://lg-head:8088/roscoe_assets/one-world-3.jpg\"],\"height\":800,\"presentation_viewport\":\"left_three\",\"slug\":953834113,\"width\":800,\"x_coord\":40,\"y_coord\":40},{\"activity\":\"browser\",\"activity_config\":{},\"assets\":[\"https://oneworldobservatory.com/\"],\"height\":1840,\"presentation_viewport\":\"right_two\",\"slug\":1588680559,\"width\":1000,\"x_coord\":40,\"y_coord\":40}]}",
         "billboard": {
             "horizontalOrigin": "CENTER",
             "image": "pins/marker-icon-teal-x128.png",
@@ -141,7 +141,7 @@
     {
         "id": "sites-8",
         "name": "Time's Square",
-        "description": "This is my description",
+        "uscs_message": "{\"description\":\"\",\"duration\":0,\"external_resource\":\"\",\"long_description\":\"\",\"menu_color\":\"white\",\"name\":\"TimesSquare\",\"online_required\":false,\"resource_uri\":\"/director_api/scene/e1243d32-9b80-49d7-a330-6298ca7a28ef/\",\"slug\":\"e1243d32-9b80-49d7-a330-6298ca7a28ef\",\"windows\":[{\"activity\":\"video\",\"activity_config\":{},\"assets\":[\"https://www.youtube.com/watch?v=u68EWmtKZw0\"],\"height\":1080,\"presentation_viewport\":\"left_two\",\"slug\":-1968023342,\"width\":800,\"x_coord\":132,\"y_coord\":32},{\"activity\":\"browser\",\"activity_config\":{},\"assets\":[\"http://lg-head:8088/roscoe_assets/times-square.jpg\"],\"height\":800,\"presentation_viewport\":\"left_three\",\"slug\":594827948,\"width\":800,\"x_coord\":40,\"y_coord\":40},{\"activity\":\"browser\",\"activity_config\":{},\"assets\":[\"http://www.timessquarenyc.org/index.aspx\"],\"height\":1840,\"presentation_viewport\":\"right_two\",\"slug\":855661132,\"width\":1000,\"x_coord\":40,\"y_coord\":40}]}",
         "billboard": {
             "horizontalOrigin": "CENTER",
             "image": "pins/marker-icon-teal-x128.png",
@@ -160,7 +160,7 @@
     {
         "id": "sites-9",
         "name": "Metropolitan Museum of Art",
-        "description": "This is my description",
+        "uscs_message": "{\"description\":\"\",\"duration\":0,\"external_resource\":\"\",\"long_description\":\"\",\"menu_color\":\"white\",\"name\":\"MetropolitanMuseumofArt\",\"online_required\":false,\"resource_uri\":\"/director_api/scene/cc1d5519-4126-4004-83b5-c5ac462a9fd0/\",\"slug\":\"cc1d5519-4126-4004-83b5-c5ac462a9fd0\",\"windows\":[{\"activity\":\"video\",\"activity_config\":{},\"assets\":[\"https://www.youtube.com/watch?v=0YNYl1aErUQ\"],\"height\":1080,\"presentation_viewport\":\"left_two\",\"slug\":782522480,\"width\":800,\"x_coord\":140,\"y_coord\":40},{\"activity\":\"browser\",\"activity_config\":{},\"assets\":[\"http://lg-head:8088/roscoe_assets/metropolitan-museum.jpg\"],\"height\":800,\"presentation_viewport\":\"left_three\",\"slug\":1395220521,\"width\":800,\"x_coord\":40,\"y_coord\":40},{\"activity\":\"browser\",\"activity_config\":{},\"assets\":[\"http://www.metmuseum.org/\"],\"height\":1840,\"presentation_viewport\":\"right_two\",\"slug\":1135694867,\"width\":1000,\"x_coord\":40,\"y_coord\":40}]}",
         "billboard": {
             "horizontalOrigin": "CENTER",
             "image": "pins/marker-icon-yellow-x128.png",
@@ -179,7 +179,7 @@
     {
         "id": "sites-10",
         "name": "NY Public Library",
-        "description": "This is my description",
+        "uscs_message": "{\"description\":\"\",\"duration\":0,\"external_resource\":\"\",\"long_description\":\"\",\"menu_color\":\"white\",\"name\":\"NewYorkPublicLibrary\",\"online_required\":false,\"resource_uri\":\"/director_api/scene/5607aeed-fb0e-47fa-8198-24af2475cf41/\",\"slug\":\"5607aeed-fb0e-47fa-8198-24af2475cf41\",\"windows\":[{\"activity\":\"video\",\"activity_config\":{},\"assets\":[\"https://www.youtube.com/watch?v=tkD9aNOn6v0\"],\"height\":1080,\"presentation_viewport\":\"left_two\",\"slug\":740448374,\"width\":800,\"x_coord\":140,\"y_coord\":40},{\"activity\":\"browser\",\"activity_config\":{},\"assets\":[\"http://lg-head:8088/roscoe_assets/new-york-public-library-2.JPG\"],\"height\":800,\"presentation_viewport\":\"left_three\",\"slug\":233463872,\"width\":800,\"x_coord\":40,\"y_coord\":40},{\"activity\":\"browser\",\"activity_config\":{},\"assets\":[\"https://www.nypl.org/\"],\"height\":1840,\"presentation_viewport\":\"right_two\",\"slug\":-1889054205,\"width\":1000,\"x_coord\":40,\"y_coord\":40}]}",
         "billboard": {
             "horizontalOrigin": "CENTER",
             "image": "pins/marker-icon-yellow-x128.png",
@@ -198,7 +198,7 @@
     {
         "id": "sites-11",
         "name": "Rockefeller Center",
-        "description": "This is my description",
+        "uscs_message": "{\"description\":\"\",\"duration\":0,\"external_resource\":\"\",\"long_description\":\"\",\"menu_color\":\"white\",\"name\":\"RockefellerCenter\",\"online_required\":false,\"resource_uri\":\"/director_api/scene/4bfed521-0768-4aa4-a867-7626bcde8c12/\",\"slug\":\"4bfed521-0768-4aa4-a867-7626bcde8c12\",\"windows\":[{\"activity\":\"video\",\"activity_config\":{},\"assets\":[\"https://www.youtube.com/watch?v=dq7Lnd-RcY0\"],\"height\":1080,\"presentation_viewport\":\"left_two\",\"slug\":-1470343218,\"width\":800,\"x_coord\":140,\"y_coord\":40},{\"activity\":\"browser\",\"activity_config\":{},\"assets\":[\"http://lg-head:8088/roscoe_assets/rockefeller-center.jpg\"],\"height\":800,\"presentation_viewport\":\"left_three\",\"slug\":1015045860,\"width\":800,\"x_coord\":40,\"y_coord\":40},{\"activity\":\"browser\",\"activity_config\":{},\"assets\":[\"https://www.rockefellercenter.com/\"],\"height\":1840,\"presentation_viewport\":\"right_two\",\"slug\":1713657368,\"width\":1000,\"x_coord\":40,\"y_coord\":40}]}",
         "billboard": {
             "horizontalOrigin": "CENTER",
             "image": "pins/marker-icon-teal-x128.png",
@@ -217,7 +217,7 @@
     {
         "id": "sites-12",
         "name": "Guggenheim Museum",
-        "description": "This is my description",
+        "uscs_message": "{\"description\":\"\",\"duration\":0,\"external_resource\":\"\",\"long_description\":\"\",\"menu_color\":\"white\",\"name\":\"GuggenheimMuseum\",\"online_required\":false,\"resource_uri\":\"/director_api/scene/943b6357-f0a8-4605-a3b9-68a48d2092b0/\",\"slug\":\"943b6357-f0a8-4605-a3b9-68a48d2092b0\",\"windows\":[{\"activity\":\"video\",\"activity_config\":{},\"assets\":[\"https://www.youtube.com/watch?v=QvgVKWvb2tI\"],\"height\":1080,\"presentation_viewport\":\"left_two\",\"slug\":1377195946,\"width\":800,\"x_coord\":140,\"y_coord\":40},{\"activity\":\"browser\",\"activity_config\":{},\"assets\":[\"http://lg-head:8088/roscoe_assets/guggenheim-museum.jpg\"],\"height\":800,\"presentation_viewport\":\"left_three\",\"slug\":-221291130,\"width\":800,\"x_coord\":40,\"y_coord\":40},{\"activity\":\"browser\",\"activity_config\":{},\"assets\":[\"https://www.guggenheim.org/\"],\"height\":1840,\"presentation_viewport\":\"right_two\",\"slug\":2076857359,\"width\":1000,\"x_coord\":40,\"y_coord\":40}]}",
         "billboard": {
             "horizontalOrigin": "CENTER",
             "image": "pins/marker-icon-yellow-x128.png",
@@ -236,7 +236,7 @@
     {
         "id": "sites-13",
         "name": "St Patrick's Cathedral",
-        "description": "This is my description",
+        "uscs_message": "{\"description\":\"\",\"duration\":0,\"external_resource\":\"\",\"long_description\":\"\",\"menu_color\":\"white\",\"name\":\"StPatrick'sCathedral\",\"online_required\":false,\"resource_uri\":\"/director_api/scene/17028575-82a1-4fda-bf0f-65798cb422ac/\",\"slug\":\"17028575-82a1-4fda-bf0f-65798cb422ac\",\"windows\":[{\"activity\":\"video\",\"activity_config\":{},\"assets\":[\"https://www.youtube.com/watch?v=Yh6EeMsBzQ4\"],\"height\":1080,\"presentation_viewport\":\"left_two\",\"slug\":1145067345,\"width\":800,\"x_coord\":140,\"y_coord\":40},{\"activity\":\"browser\",\"activity_config\":{},\"assets\":[\"http://lg-head:8088/roscoe_assets/st-patricks.jpg\"],\"height\":800,\"presentation_viewport\":\"left_three\",\"slug\":1791974164,\"width\":800,\"x_coord\":40,\"y_coord\":40},{\"activity\":\"browser\",\"activity_config\":{},\"assets\":[\"https://saintpatrickscathedral.org/\"],\"height\":1840,\"presentation_viewport\":\"right_two\",\"slug\":1563121452,\"width\":1000,\"x_coord\":40,\"y_coord\":40}]}",
         "billboard": {
             "horizontalOrigin": "CENTER",
             "image": "pins/marker-icon-red-x128.png",
@@ -255,7 +255,7 @@
     {
         "id": "sites-14",
         "name": "The High Line",
-        "description": "This is my description",
+        "uscs_message": "{\"description\":\"\",\"duration\":0,\"external_resource\":\"\",\"long_description\":\"\",\"menu_color\":\"white\",\"name\":\"TheHighLine\",\"online_required\":false,\"resource_uri\":\"/director_api/scene/8aa10294-d63b-4a75-8058-003ad5c06e2e/\",\"slug\":\"8aa10294-d63b-4a75-8058-003ad5c06e2e\",\"windows\":[{\"activity\":\"video\",\"activity_config\":{},\"assets\":[\"https://www.youtube.com/watch?v=QTxx1VTyUv8\"],\"height\":1080,\"presentation_viewport\":\"left_two\",\"slug\":1664505766,\"width\":800,\"x_coord\":140,\"y_coord\":40},{\"activity\":\"browser\",\"activity_config\":{},\"assets\":[\"http://lg-head:8088/roscoe_assets/the-high-line.jpg\"],\"height\":800,\"presentation_viewport\":\"left_three\",\"slug\":-578593692,\"width\":800,\"x_coord\":40,\"y_coord\":40},{\"activity\":\"browser\",\"activity_config\":{},\"assets\":[\"http://www.thehighline.org/\"],\"height\":1840,\"presentation_viewport\":\"right_two\",\"slug\":-157199519,\"width\":1000,\"x_coord\":40,\"y_coord\":40}]}",
         "billboard": {
             "horizontalOrigin": "CENTER",
             "image": "pins/marker-icon-red-x128.png",
