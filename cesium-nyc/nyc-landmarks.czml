@@ -1,0 +1,293 @@
+[{
+        "id": "document",
+        "name": "articles",
+        "version": "1.0",
+        "feature-info-template": "default.mst",
+        "show-feature-info": true
+    },
+    {
+        "id": "sites-1",
+        "name": "Empire State Building",
+        "description": "<a href>https://www.nyctourist.com/empire1.htm</href>",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "pins/marker-icon-teal-x128.png",
+            "scale": 0.25,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                -73.9856644,
+                40.7484405,
+                150 
+            ]
+        }
+    },
+    {
+        "id": "sites-2",
+        "name": "Statue of Liberty",
+        "description": "This is my description",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "pins/marker-icon-teal-x128.png",
+            "scale": 0.25,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                -74.0445004,
+                40.6892494,
+                150 
+            ]
+        }
+    },
+    {
+        "id": "sites-3",
+        "name": "Central Park",
+        "description": "This is my description",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "pins/marker-icon-green-x128.png",
+            "scale": 0.25,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+               -73.9653551 ,
+               40.7828647 ,
+                150 
+            ]
+        }
+    },
+    {
+        "id": "sites-4",
+        "name": "Lincoln Center",
+        "description": "This is my description",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "pins/marker-icon-yellow-x128.png",
+            "scale": 0.25,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                -73.9834889,
+                40.7724641,
+                150 
+            ]
+        }
+    },
+    {
+        "id": "sites-5",
+        "name": "World Trade Center",
+        "description": "This is my description",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "pins/marker-icon-teal-x128.png",
+            "scale": 0.25,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                -74.0133795,
+                40.7127431,
+                150 
+            ]
+        }
+    },
+    {
+        "id": "sites-6",
+        "name": "Brooklyn Bridge",
+        "description": "This is my description",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "pins/marker-icon-teal-x128.png",
+            "scale": 0.25,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                -73.9968643,
+                40.7060855,
+                150 
+            ]
+        }
+    },
+    {
+        "id": "sites-7",
+        "name": "Trump Tower",
+        "description": "This is my description",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "pins/marker-icon-red-x128.png",
+            "scale": 0.25,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                -73.973794,
+                40.7624284,
+                150 
+            ]
+        }
+    },
+    {
+        "id": "sites-8",
+        "name": "Time's Square",
+        "description": "This is my description",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "pins/marker-icon-teal-x128.png",
+            "scale": 0.25,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                -73.985131,
+                40.758895,
+                150 
+            ]
+        }
+    },
+    {
+        "id": "sites-9",
+        "name": "Metropolitan Museum of Art",
+        "description": "This is my description",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "pins/marker-icon-yellow-x128.png",
+            "scale": 0.25,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                -73.963244,
+                40.7794366,
+                150 
+            ]
+        }
+    },
+    {
+        "id": "sites-10",
+        "name": "NY Public Library",
+        "description": "This is my description",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "pins/marker-icon-yellow-x128.png",
+            "scale": 0.25,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                -73.9822534,
+                40.7531823,
+                150 
+            ]
+        }
+    },
+    {
+        "id": "sites-11",
+        "name": "Rockefeller Center",
+        "description": "This is my description",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "pins/marker-icon-teal-x128.png",
+            "scale": 0.25,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                -73.9786736,
+                40.7587402,
+                150 
+            ]
+        }
+    },
+    {
+        "id": "sites-12",
+        "name": "Guggenheim Museum",
+        "description": "This is my description",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "pins/marker-icon-yellow-x128.png",
+            "scale": 0.25,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                -73.9589706,
+                40.7829796,
+                150 
+            ]
+        }
+    },
+    {
+        "id": "sites-13",
+        "name": "St Patrick's Cathedral",
+        "description": "This is my description",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "pins/marker-icon-red-x128.png",
+            "scale": 0.25,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                -73.9759927,
+                40.7584653,
+                150 
+            ]
+        }
+    },
+    {
+        "id": "sites-14",
+        "name": "The High Line",
+        "description": "This is my description",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "pins/marker-icon-red-x128.png",
+            "scale": 0.25,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                -74.0047649,
+                40.7479925,
+                150 
+            ]
+        }
+    },
+    {
+        "id": "sites-15",
+        "name": "Roosevelt Island Tram",
+        "description": "This is my description",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "pins/marker-icon-teal-x128.png",
+            "scale": 0.25,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                -73.9642079,
+                40.7611977,
+                150 
+            ]
+        }
+    }
+]
