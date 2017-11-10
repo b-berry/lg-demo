@@ -289,5 +289,24 @@
                 150 
             ]
         }
+    },
+    {
+        "id": "sites-16",
+        "name": "Grand Central Station",
+        "description": "This is my description",
+        "billboard": {
+            "horizontalOrigin": "CENTER",
+            "image": "http://lg-head/touchscreen_assets/images/pins/marker-icon-teal-x128.png",
+            "scale": 0.25,
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                -73.9772294
+                40.7527262
+                150
+            ]
+        }
     }
 ]
