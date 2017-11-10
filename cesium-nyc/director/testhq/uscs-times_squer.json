@@ -1,0 +1,53 @@
+type: json
+message: {
+  "description": "",
+  "duration": 0,
+  "external_resource": "",
+  "long_description": "",
+  "menu_color": "white",
+  "name": "Times Square",
+  "online_required": false,
+  "resource_uri": "/director_api/scene/e1243d32-9b80-49d7-a330-6298ca7a28ef/",
+  "slug": "e1243d32-9b80-49d7-a330-6298ca7a28ef",
+  "windows": [
+    {
+      "activity": "video",
+      "activity_config": {},
+      "assets": [
+        "https://www.youtube.com/watch?v=u68EWmtKZw0"
+      ],
+      "height": 1080,
+      "presentation_viewport": "left_two",
+      "slug": -1968023342,
+      "width": 800,
+      "x_coord": 132,
+      "y_coord": 32
+    },
+    {
+      "activity": "browser",
+      "activity_config": {},
+      "assets": [
+        "http://lg-head:8088/roscoe_assets/times-square.jpg"
+      ],
+      "height": 800,
+      "presentation_viewport": "left_three",
+      "slug": 594827948,
+      "width": 800,
+      "x_coord": 40,
+      "y_coord": 40
+    },
+    {
+      "activity": "browser",
+      "activity_config": {},
+      "assets": [
+        "http://www.timessquarenyc.org/index.aspx"
+      ],
+      "height": 1840,
+      "presentation_viewport": "right_two",
+      "slug": 855661132,
+      "width": 1000,
+      "x_coord": 40,
+      "y_coord": 40
+    }
+  ]
+}
