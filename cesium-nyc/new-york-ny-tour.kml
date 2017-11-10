@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <name>Document</name>
+        <NetworkLink id="feat_2">
+            <name>Autoplay</name>
+            <Link id="link_0">
+                <href>http://localhost:8765/query.html?query=playtour=Play-Tour</href>
+            </Link>
+        </NetworkLink>
+        <gx:Tour>
+            <name>Play-Tour</name>
+            <gx:Playlist>
+                <gx:Wait id="tour_0">
+                    <gx:duration>0.3</gx:duration>
+                </gx:Wait>
+                <gx:FlyTo id="tour_1">
+                    <gx:duration>4</gx:duration>
+                    <LookAt>
+                        <longitude>-74.0059728</longitude>
+                        <latitude>40.7127753</latitude>
+                        <altitude>0.0</altitude>
+                        <heading>0.0</heading>
+                        <tilt>75.0</tilt>
+                        <altitudeMode>absolute</altitudeMode>
+                        <range>1000.0</range>
+                    </LookAt>
+                </gx:FlyTo>
+                <gx:Wait id="tour_2">
+                    <gx:duration>2.0</gx:duration>
+                </gx:Wait>
+            </gx:Playlist>
+        </gx:Tour>
+    </Document>
+</kml>

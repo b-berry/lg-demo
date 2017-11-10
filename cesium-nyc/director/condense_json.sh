@@ -38,7 +38,7 @@ for n in *.json; do
   else 
     unset JSON
     printf "Condensing: $n "
-    JSON="$(echo "\"uscs_message\": \"{$(cat $n | sed -e '1,2d' | tr -d '\n' | sed -e 's/\ //g')\",")"
+    JSON="$(echo "\"uscs_message\": \"{$(cat $n | sed -e '1,2d' | tr -d '\n' | sed -e 's/\ //g' | sed -e 's/\"/\\\"/g')\",")"
     check_status $?
     FILE="${n%.json}-condensed.json"
     printf "Directing uscs_message to: $FILE "
